@@ -7,7 +7,7 @@
 
 
 #### ☑️ Стандарт по защите облачной инфраструктуры Yandex Cloud 1.1
-Чеклист по безопасности в облачной инфраструкутре Yandex Cloud
+Чеклист по безопасности в облачной инфраструкутре Yandex Cloud:
 
 [https://cloud.yandex.ru/docs/security/standard/all](https://cloud.yandex.ru/docs/security/standard/all)
 
@@ -82,7 +82,7 @@
 
 
 # Обратная связь и пожелания
-- Доработки, ошибки, contribute: Заводите, пожалуйста с помощью Github - Issues / Pull Requests
+- Доработки, ошибки, contribute - с помощью инструментов Github - [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) и [Pull Requests (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 - Вопросы, пожелания, консультации: Пишите нам в телеграм https://t.me/YandexCloudSecurity
 
 #### Референсная архитектура
