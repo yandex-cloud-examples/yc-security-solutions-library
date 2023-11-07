@@ -41,11 +41,9 @@
   - [Пример безопасной конфигурации Yandex Cloud Object Storage: Terraform](https://github.com/yandex-cloud-examples/yc-s3-secure-bucket)
   - (Скоро) запрет доступа к метадате
 
-##
-<a href="https://kubernetes.io/">
-    <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg"
-         alt="Kubernetes logo" title="Kubernetes" height="50" width="50" />
-</a><br>
+<p align="left">
+    <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" alt="Kubernetes logo" width="50"/>
+</p>
 
 - Безопасность Kubernetes
   - Аутентификация и управление доступом Managed Kubernetes:
@@ -61,11 +59,9 @@
     - [osquery и kubequery в k8s: osquery (защита k8s nodes), kubequery (анализ конфиг. всего k8s) ](https://github.com/yandex-cloud/yc-solution-library-for-security/tree/master/kubernetes-security/osquery-kubequery/README_RU.md)
   - [Интеграция Starboard с Yandex Cloud Container Registry с целью сканирования запущенных образов](https://github.com/yandex-cloud/yc-solution-library-for-security/tree/master/kubernetes-security/starboard_and_yc-cr/README_RU.md)
 
-##
-<a href="https://kubernetes.io/">
-    <img src="https://logowik.com/content/uploads/images/gitlab8368.jpg"
-         alt="Kubernetes logo" title="Kubernetes" height="50" width="50" />
-</a></br>
+<p align="left">
+    <img src="https://logowik.com/content/uploads/images/gitlab8368.jpg" alt="Gitlab logo" height="50" width="50"/>
+</p>
 
 - CI/CD Security
   - Secure CI/CD на базе Managed GitLab:
@@ -75,12 +71,9 @@
       - [Security in Gtilab instance check-list](https://github.com/yandex-cloud-examples/yc-webinar-secure-cicd-with-gitlab/tree/main/gitlab_instance_sec_checklist)
   - [Выступление про комплаенс и devsecops](https://github.com/yandex-cloud-examples/yc-webinar-devsecops-compliance-2022) 
 
-##
-<a href="https://kubernetes.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"
-         alt="Kubernetes logo" title="Kubernetes" height="50" width="50" />
-</a><br>
-
+<p align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="Telegram logo" width="50"/>
+</p>
 
 # Обратная связь и пожелания
 - Доработки, ошибки, contribute - с помощью инструментов Github - [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) и [Pull Requests (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
