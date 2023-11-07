@@ -43,7 +43,7 @@
 
 ##
 <a href="https://kubernetes.io/">
-    <img src="https://github.com/magnologan/awesome-k8s-security/blob/master/logo.png"
+    <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg"
          alt="Kubernetes logo" title="Kubernetes" height="50" width="50" />
 </a><br>
 
