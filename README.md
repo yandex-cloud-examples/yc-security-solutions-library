@@ -69,7 +69,8 @@
       - [Обнаружение уязвимостей в CI/CD (Ultimate лицензия)](https://github.com/yandex-cloud-examples/yc-webinar-secure-cicd-with-gitlab)
       - [Обнаружение уязвимостей в CI/CD (Free лицензия)](https://github.com/yandex-cloud-examples/yc-webinar-secure-cicd-with-gitlab)
       - [Security in Gtilab instance check-list](https://github.com/yandex-cloud-examples/yc-webinar-secure-cicd-with-gitlab/tree/main/gitlab_instance_sec_checklist)
-  - [Выступление про комплаенс и devsecops](https://github.com/yandex-cloud-examples/yc-webinar-devsecops-compliance-2022) 
+  - [Выступление про комплаенс и devsecops](https://github.com/yandex-cloud-examples/yc-webinar-devsecops-compliance-2022)
+  - [Вебинар+материалы:Как выстроить процесс безопасной разработки в Yandex Cloud](https://github.com/yandex-cloud-examples/yc-webinar-security-pipeline-2023)
 
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="Telegram logo" width="50"/>
